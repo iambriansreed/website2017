@@ -1,8 +1,16 @@
 {
 	"contentTypes" : [
 		{
-			"title" : "This",
-			"slug" : "humans"
+			"title" : "Humans",
+			"slug" : "humans",
+			"properties": {
+				"firstName": {
+					"type": "string"
+				},
+				"lastName": {
+					"type": "string"
+				}
+			}
 		}
 	]
 }
