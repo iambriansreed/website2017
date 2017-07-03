@@ -1,7 +1,8 @@
 {
-  "content-types" : [
-    {
-      "title" : "This"
-    }
-  ]
+	"contentTypes" : [
+		{
+			"title" : "This",
+			"slug" : "humans"
+		}
+	]
 }
